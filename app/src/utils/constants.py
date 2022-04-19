@@ -1,0 +1,10 @@
+DESIGN_COND_PRESSURE = 500  # psig
+DESIGN_COND_TEMP = 450  # Fahrenheit
+INSIDE_DIAMETER = 48  # inches
+NOMINAL_WALL_THICKNESS = 1.5  # original wall thickness after fabrication (inches)
+FUTURE_CORROSION_ALLOWANCE = 0.1  # inches
+MATERIAL = "SA 516 Grade 70"
+WELD_JOINT_EFFICIENCY = 0.7  # unitless
+ALLOWABLE_TENSILE_STRESS = 17500  # unitless
+ALLOWABLE_TENSILE_STRESS = 17500  # unitless
+RSFa = 0.9
